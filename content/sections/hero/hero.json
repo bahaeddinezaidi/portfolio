@@ -1,0 +1,22 @@
+{
+  "intro": "Heyy",
+  "heroPhoto": {
+    "src": "../../images/baha.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Bahaeddine zaidi ",
+  "subtitle": {
+    "prefix": "Software Engineer | Full-Stack JS | ",
+    "highlight": "Devops ",
+    "suffix": "."
+  },
+  "description": "Looking for an end of studies internship.",
+  "socialProfiles": {
+    "from": ["LinkedIn","Github", "Mail"],
+    "showIcons": false
+  }
+}

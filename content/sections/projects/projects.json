@@ -1,0 +1,125 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "꧁ Laravel 9 Project ꧂",
+      "title": "Waste Wise !",
+      "description": "I played a key role in developing the Waste Wise web application, focusing on its core functionality for waste management and recycling optimization. My contributions included building features for effective project and investment management to support sustainable waste practic.",
+      "tags": ["Laravel9","Html ", "Css","Javascript","GithubActions","SonarCloud","Docker"],
+      "image": {
+        "src": "../../images/wastewise2.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/bahaeddinezaidi/Waste_Wise-Project"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/bahaeddinezaidi/Waste_Wise-Project"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "꧁ Full-stack JavaScript ꧂",
+      "title": "HR 360° !",
+      "description": "I played a key role in developing an innovative HR platform, building its core functionality for sentiment analysis using AI, and implementing a seamless integration with Angular 17, Python, and NestJS, along with CI/CD practices.",
+      "tags": ["Nest.js"," python", "Angular17","MongoDB","Devops"],
+      "image": {
+        "src": "../../images/pi.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/bahaeddinezaidi"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/bahaeddinezaidi"
+        }
+      
+      ]
+    },
+    {
+      "visible": true,
+      "category": "꧁DevOps Project꧂",
+      "title": "Invoicely!",
+      "description": "Led a DevOps project encompassing jenkins CI/CD, Docker contanerzation, Git version control, Nexus artifact management, JUnit testing, SonarQube quality analysis, Docker Compose orchestration, and Grafana/Prometheus monitoring.\n",
+      "tags": ["jenkins"," Docker", "Git ","Nexus","JUnit","SonarQube" ,"Grafana/Prometheus","Jacoco","Mokito,"],
+      "image": {
+        "src": "../../images/devops1.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/bahaeddinezaidi"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/bahaeddinezaidi"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "꧁Microservice Project꧂",
+      "title": "R É S E R V E Z M AI N T E N A N T !",
+      "description": "Developed microservices with Spring Boot, Dockerized them for portability, integrated Eureka Server for service discovery, and implemented API gateways for efficient routing..\n",
+      "tags": ["Microservice"," server_Eureka", "Api_gateway ","Docker","Docker-compose","SpringBoot/Angular"],
+      "image": {
+        "src": "../../images/mac.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/bahaeddinezaidi"
+
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/bahaeddinezaidi"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "꧁Semantic Web Project꧂",
+      "title": "Medical app !",
+      "description": "I played a key role in developing a semantic web medical application that recommends treatments, doctors, and diseases based on symptoms, building its core functionality and ensuring an intuitive user experience...\n",
+      "tags": ["Springboot"," Angular", "OWl ","SparQL"],
+      "image": {
+        "src": "../../images/websemantique.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/bahaeddinezaidi"
+
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/bahaeddinezaidi"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "꧁Django  Project꧂",
+      "title": "Ecostyle !",
+      "description": "I played a key role in developing an e-commerce web application that incorporates AI to enhance user experience, optimize product recommendations, and streamline the purchasing process....\n",
+      "tags": ["django"," python", "MachineLearning "],
+      "image": {
+        "src": "../../images/django.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/bahaeddinezaidi"
+
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/bahaeddinezaidi"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/bahaeddinezaidi"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "interests": [
+    {
+      "label": "Express.js",
+      "image": {
+        "src": "../../images/Express.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React.js",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MongoDB",
+      "image": {
+        "src": "../../images/Mongodb.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Spring-Boot",
+      "image": {
+        "src": "../../images/Spring Boot.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Angular",
+      "image": {
+        "src": "../../images/Angular.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "sql",
+      "image": {
+        "src": "../../images/sql.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Laravel",
+      "image": {
+        "src": "../../images/Laravel.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Nestjs",
+      "image": {
+        "src": "../../images/nestjs.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "DotNET",
+      "image": {
+        "src": "../../images/NET.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "django-python",
+      "image": {
+        "src": "../../images/django-python-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Devops",
+      "image": {
+        "src": "../../images/devops.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Microservice",
+      "image": {
+        "src": "../../images/micro.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "UI/UX",
+      "image": {
+        "src": "../../images/UX.png",
+        "alt": ""
+      }
+    },
+  
+    {
+      "label": "GitHub",
+      "image": {
+        "src": "../../images/Git.png",
+        "alt": ""
+      }
+    },
+   
+    {
+      "label": "Jira",
+      "image": {
+        "src": "../../images/jira.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
